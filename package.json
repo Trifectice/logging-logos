@@ -1,0 +1,11 @@
+{
+  "name": "10-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
